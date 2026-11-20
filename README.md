@@ -33,6 +33,8 @@ d—shboard is designed with a **local-first** philosophy. Here is exactly what 
 
 ## Live Demo
 
+<img width="1920" height="994" alt="preview" src="https://github.com/user-attachments/assets/10d49d59-82c1-4ca6-b2b5-6fb4b6f6d93c" />
+
 Try it directly in your browser: [aquuamon.github.io/D-shboard](https://aquuamon.github.io/D-shboard/)
 
 No installation required — open the page, flip the edit switch, and make it yours. The whole project is a single self-contained file, `dashboard.html`, so you can open it straight from disk or host it on any static site.
