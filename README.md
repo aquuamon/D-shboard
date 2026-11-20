@@ -1,4 +1,4 @@
-# d—shboard
+# d—shboard 🖥
 
 A browser-based start page for your bookmarks. Arrange your favorite sites as visual cards, search the web from the same page, and edit everything in place — no account, no server, no setup.
 
